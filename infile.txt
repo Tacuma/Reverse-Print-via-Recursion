@@ -1,0 +1,16 @@
+Fred Cook            
+Computer Science    
+@1324354   
+3.4
+Betty Davis  
+Electrical Engineering               
+@8099000      
+1.8
+Jim Rockville 
+Mathematics     
+@1155000      
+4.00
+Kevin Smith         
+English          
+@2230090      
+3.1
